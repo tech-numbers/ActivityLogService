@@ -1,15 +1,13 @@
 {
-  "name": "util",
+  "name": "activity",
   "version": "1.0.0",
-  "description": "",
-  "main": "decodetoken.js",
+  "description": "activity log store into Database",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "atob": "^2.1.2",
     "aws-sdk": "^2.1213.0"
   }
 }
